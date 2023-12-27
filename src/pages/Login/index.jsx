@@ -7,7 +7,7 @@ const LoginPage = () => {
     <>
       <div className="bg-white-A700 flex flex-col font-bramptonserifregulardemo items-center justify-start mx-auto p-[61px] md:px-10 sm:px-5 w-full">
         <div className="sm:bg-colors bg-gray-100 flex flex-col sm:gap-[] sm:gap-x-[] sm:gap-y-[] sm:h-[] items-center justify-start sm:m-[] max-w-7xl sm:min-w-[300px] mx-auto sm:my-px p-2.5 sm:p-[] md:p-[] md:px-5 sm:py-0 md:py-1.5 rounded-[25px] w-full">
-          <div className="flex md:flex-col flex-row md:gap-10 items-start justify-between sm:m-[] sm:mb-px my-[81px] w-[98%] md:w-full">
+          <div className="flex md:flex-col flex-row md:gap-10 items-start justify-between sm:mb-px my-5 w-[98%] md:w-full">
             <div className="flex flex-col gap-9 items-end justify-start md:mt-0 mt-[9px] md:p-[] md:pb-[] md:pl-[] md:pr-[] md:pt-[] w-[35%] md:w-full">
               <Text
                 className="block flex-row md:m-auto sm:text-5xl text-[68px] text-center text-gray-900"
