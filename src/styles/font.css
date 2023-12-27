@@ -1,0 +1,10 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NunitoSansRegular.ttf"); font-family : "Nunito Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NunitoSansBold.ttf"); font-family : "Nunito Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NunitoSansBlack.ttf"); font-family : "Nunito Sans"; font-weight : 900;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NunitoSansSemiBold.ttf"); font-family : "Nunito Sans"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoppinsBold.ttf"); font-family : "Poppins"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NunitoMedium.ttf"); font-family : "Nunito"; font-weight : 500;  }
